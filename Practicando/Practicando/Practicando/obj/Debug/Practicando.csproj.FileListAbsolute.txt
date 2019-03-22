@@ -1,0 +1,7 @@
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\bin\Debug\Practicando.exe.config
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\bin\Debug\Practicando.exe
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\bin\Debug\Practicando.pdb
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\obj\Debug\Practicando.csprojAssemblyReference.cache
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\obj\Debug\Practicando.csproj.CoreCompileInputs.cache
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\obj\Debug\Practicando.exe
+C:\Users\valenciag\Documents\Hitss\C#\Practicando\Practicando\Practicando\obj\Debug\Practicando.pdb
